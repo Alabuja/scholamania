@@ -1,0 +1,14 @@
+.required label::after{
+    content: " *";
+    color: red;
+}
+
+.container > .row > .home{
+	background-color: #ffffff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.active{
+	background-color: #4587d9;
+}

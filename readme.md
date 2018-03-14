@@ -1,1 +1,1 @@
-"# scholamania" 
+# scholamania
